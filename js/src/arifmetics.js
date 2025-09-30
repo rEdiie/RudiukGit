@@ -1,12 +1,20 @@
 let a = 5;
-const b = '6';
+const b = '10';
+const c = 3;
+const d = 'world';
+const e = true;
 
 console.log(a + b);
+console.log(a + c);
+console.log(a + d);
 console.log(a - b);
+console.log(a - c);
 console.log(a * b);
 console.log(a / b);
 console.log(a % b);
 console.log(a ** b);
+console.log(a / d);
+console.log(a + e);
 a += a;
 console.log(a);
 a -= a;
