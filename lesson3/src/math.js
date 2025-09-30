@@ -1,0 +1,25 @@
+let a = 5;
+const b = '6';
+
+console.log(a + b);
+console.log(a - b);
+console.log(a * b);
+console.log(a / b);
+console.log(a % b);
+console.log(a ** b);
+a += a;
+console.log(a);
+a -= a;
+console.log(a);
+a = 5;
+a *= a;
+console.log(a);
+a = 5;
+a *= a;
+console.log(a);
+a /= a;
+console.log(a);
+a %= a;
+console.log(a);
+a **= a;
+console.log(a);
