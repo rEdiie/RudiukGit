@@ -1,0 +1,7 @@
+{
+  "extension": ["ts"],
+  "spec": "specs/mocha/professional-coffee-machine.spec.ts",
+  "require": ["ts-node/register"],
+  "recursive": false,
+  "timeout": 10000
+}
